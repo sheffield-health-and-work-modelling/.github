@@ -28,6 +28,10 @@ This platform of modelling consists of several types of repository:
 - [frsclean](https://github.com/sheffield-health-and-work-modelling/frsclean): For cleaning the Family Resources Survey.
 - [lfsclean](https://github.com/sheffield-health-and-work-modelling/lfsclean): For cleaning the quarterly cross-sectional and five-quarter longitudinal versions of the Labour Force Survey.
 
+## Data (private)
+
+- [USoc-data-processing](https://github.com/sheffield-health-and-work-modelling/USoc-data-processing): Code for routine processing of the Understanding Society data using [ukhlsclean](https://github.com/sheffield-health-and-work-modelling/ukhlsclean)
+
 ## Analysis (private)
 
 - [labour-market-transition-probs](https://github.com/sheffield-health-and-work-modelling/labour-market-transition-probs): For the estimation of probabilities of transitioning between labour market states.
