@@ -16,13 +16,9 @@ A set of internal STAPM R packages have been developed that contain code used fo
 
 This platform of modelling consists of several types of repository:
 
-- Data: Repositories which process and clean large survey data sets used in health and work analyses, to be reused for multiple purposes.
-- Analysis: Statistical analysis of datasets to inform parameters used in modelling.
-- R packages: For storing reusable functions and parameters for routine use.
-- Model: A repository which combines the use of R packages, data, and parameters into simulation models for modelling interventions and performing Cost-Benefit Analyses.
-- Documentation: Reproducible technical reports detailing modelling methodologies.
-
 ## R packages 
+
+For storing reusable functions and parameters for routine use.
 
 - [ukhlsclean](https://github.com/sheffield-health-and-work-modelling/ukhlsclean): For cleaning Understanding Society: The UK Household Longitudinal Study.
 - [frsclean](https://github.com/sheffield-health-and-work-modelling/frsclean): For cleaning the Family Resources Survey.
@@ -30,14 +26,23 @@ This platform of modelling consists of several types of repository:
 
 ## Data (private)
 
+Repositories which process and clean large survey data sets used in health and work analyses, to be reused for multiple purposes.
+
 - [USoc-data-processing](https://github.com/sheffield-health-and-work-modelling/USoc-data-processing): Code for routine processing of the Understanding Society data using [ukhlsclean](https://github.com/sheffield-health-and-work-modelling/ukhlsclean)
 
 ## Analysis (private)
+
+Statistical analysis of datasets to inform parameters used in modelling.
 
 - [labour-market-transition-probs](https://github.com/sheffield-health-and-work-modelling/labour-market-transition-probs): For the estimation of probabilities of transitioning between labour market states.
 - [health-impacts-of-employment](https://github.com/sheffield-health-and-work-modelling/health-impacts-of-employment): For estimating the impact of changing labour market status on health.
 
 ## Model (private)
 
-- [https://github.com/sheffield-health-and-work-modelling/work-and-health-interventions-model](https://github.com/sheffield-health-and-work-modelling/work-and-health-interventions-model): For undertaking simulation modelling of work and health interventions. 
+A repository which combines the use of R packages, data, and parameters into simulation models for modelling interventions and performing Cost-Benefit Analyses.
 
+- [https://github.com/sheffield-health-and-work-modelling/work-and-health-interventions-model](https://github.com/sheffield-health-and-work-modelling/work-and-health-interventions-model): For undertaking simulation modelling of work and health interventions.
+
+## Documentation (private)
+
+Code for reproducible technical reports detailing modelling methodologies.
