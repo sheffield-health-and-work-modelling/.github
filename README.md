@@ -3,7 +3,7 @@
 This GitHub organisation stores the R packages and associated repositories of simulation modelling, statistical analysis, and data processing for the modelling of the relationship between health and work. This work has been funded by several projects:
 
 - [Support Employment beyond SMI](https://www.ipsbeyondsmi.org/)
-- [Workplace Intervention for Sustainable Health and Employment Support (WISHES)]
+- [Workplace Intervention for Sustainable Health and Employment Support (WISHES)](https://wishes.uk.com/)
 
 ## Overview
 The analyses were developed by researchers at the [Sheffield Centre for Health and Related Research](https://www.sheffield.ac.uk/scharr) at the University of Sheffield, UK.
