@@ -41,7 +41,7 @@ Statistical analysis of datasets to inform parameters used in modelling.
 
 A repository which combines the use of R packages, data, and parameters into simulation models for modelling interventions and performing Cost-Benefit Analyses.
 
-- [https://github.com/sheffield-health-and-work-modelling/work-and-health-interventions-model](https://github.com/sheffield-health-and-work-modelling/work-and-health-interventions-model): For undertaking simulation modelling of work and health interventions.
+- [work-and-health-interventions-model](https://github.com/sheffield-health-and-work-modelling/work-and-health-interventions-model): For undertaking simulation modelling of work and health interventions.
 
 ## Documentation (private)
 
